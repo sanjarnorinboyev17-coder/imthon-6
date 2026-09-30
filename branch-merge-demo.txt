@@ -1,3 +1,3 @@
 Branch merge amaliyoti
-Holat: main branchdagi qiymat
+Holat: main va feature branch o‘zgarishlari qo‘lda birlashtirildi
 Izoh: merge conflictni amalda ko‘rsatish uchun.
