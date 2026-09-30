@@ -1,0 +1,3 @@
+Branch merge amaliyoti
+Holat: main branchdagi qiymat
+Izoh: merge conflictni amalda ko‘rsatish uchun.
